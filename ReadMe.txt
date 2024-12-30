@@ -1,0 +1,1 @@
+type in app = PhasedArrayApp; in command window or run jumpStart.m
